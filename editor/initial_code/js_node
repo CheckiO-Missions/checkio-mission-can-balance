@@ -1,9 +1,9 @@
 "use strict";
 
-function canBalance(a) {
+function canBalance(weights) {
 
     // your code here
-    return undefined;
+    return -1;
 }
 
 var assert = require('assert');

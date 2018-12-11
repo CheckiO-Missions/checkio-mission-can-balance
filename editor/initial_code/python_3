@@ -1,6 +1,8 @@
-def can_balance(a):
+from typing import Iterable
+
+def can_balance(weights: Iterable) -> int:
     # your code here
-    return None
+    return -1
 
 
 if __name__ == '__main__':
